@@ -16,4 +16,4 @@ In this repository you will find:
 
 - AI usage rules;
 
-- datasets.
+- datasets
